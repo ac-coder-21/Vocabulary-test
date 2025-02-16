@@ -4,7 +4,6 @@
     <div v-if="!started">
       <div class="stats-container">
         <p class="stats-text">No. of words known: {{ homeData[0] }}</p>
-        <p class="stats-text">Rate of learning: {{ (homeData[0] / homeData[1]).toFixed(2) }} / day</p>
       </div>
 
       <button @click="startTest" class="start-button">
@@ -97,7 +96,7 @@ export default {
       started: false,
       selectedFile: '',
       jsonFiles: ['A1 Nouns', 'A1 Verbs', 'A1 Adjectives', 'A1 Others'],
-      homeData: [0, 1], // default values for words learned and delta days
+      homeData: [0], // Modified to only store words learned
       currentWord: {
         english: '',
         german: '',

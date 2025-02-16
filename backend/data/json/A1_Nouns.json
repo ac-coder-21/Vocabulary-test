@@ -1,14 +1,6 @@
 {
     "words": [
         {
-            "german": "der Mann",
-            "english": "Man"
-        },
-        {
-            "german": "die Frau",
-            "english": "Woman"
-        },
-        {
             "german": "der Abend",
             "english": "Evening"
         },
@@ -22,7 +14,7 @@
         },
         {
             "german": "der Arzt",
-            "english": "Doctor"
+            "english": "Male Doctor"
         },
         {
             "german": "die Ärztin",
@@ -30,10 +22,10 @@
         },
         {
             "german": "das Beispiel",
-            "english": "example"
+            "english": "Example"
         },
         {
-            "german": "das Beruf",
+            "german": "der Beruf",
             "english": "Job"
         },
         {
@@ -62,7 +54,11 @@
         },
         {
             "german": "der Fahrer",
-            "english": "Driver"
+            "english": "Male Driver"
+        },
+        {
+            "german": "die Fahrerin",
+            "english": "Female Driver"
         },
         {
             "german": "die Familie",
@@ -70,7 +66,7 @@
         },
         {
             "german": "der Familiename",
-            "english": "Family name / Surname"
+            "english": "Family Name / Surname"
         },
         {
             "german": "der Flug",
@@ -78,31 +74,39 @@
         },
         {
             "german": "der Flughafen",
-            "english": "airport"
+            "english": "Airport"
         },
         {
             "german": "das Foto",
-            "english": "photo"
+            "english": "Photograph"
         },
         {
             "german": "die Frage",
             "english": "Question"
         },
         {
+            "german": "die Frau",
+            "english": "Woman"
+        },
+        {
             "german": "der Freund",
-            "english": "Friend"
+            "english": "Male Friend"
+        },
+        {
+            "german": "die Freundin",
+            "english": "Female Friend"
         },
         {
             "german": "der Friseur",
-            "english": "Hairdresser"
+            "english": "Male Hairdresser"
+        },
+        {
+            "german": "die Friseurin",
+            "english": "Female Hairdresser"
         },
         {
             "german": "die Gitarre",
             "english": "Guitar"
-        },
-        {
-            "german": "der Herr",
-            "english": "Mister"
         },
         {
             "german": "die Information",
@@ -110,7 +114,11 @@
         },
         {
             "german": "der Ingenieur",
-            "english": "Engineer"
+            "english": "Male Engineer"
+        },
+        {
+            "german": "die Ingenieurin",
+            "english": "Female Engineer"
         },
         {
             "german": "das Jahr",
@@ -125,12 +133,16 @@
             "english": "Waitress"
         },
         {
+            "german": "der Kellner",
+            "english": "Waiter"
+        },
+        {
             "german": "das Kind",
             "english": "Child"
         },
         {
-            "german": "der Kisok",
-            "english": "Kisok"
+            "german": "der Kiosk",
+            "english": "Kiosk"
         },
         {
             "german": "der Kurs",
@@ -151,6 +163,10 @@
         {
             "german": "die Leute",
             "english": "People"
+        },
+        {
+            "german": "der Mann",
+            "english": "Man"
         },
         {
             "german": "die Minute",
@@ -193,10 +209,6 @@
             "english": "Person"
         },
         {
-            "german": "der Pass",
-            "english": "Pass"
-        },
-        {
             "german": "der Platz",
             "english": "Place"
         },
@@ -213,7 +225,7 @@
             "english": "Chocolate"
         },
         {
-            "german": "die Schewiz",
+            "german": "die Schweiz",
             "english": "Switzerland"
         },
         {
@@ -221,11 +233,15 @@
             "english": "Sofa"
         },
         {
+            "german": "die Sprache",
+            "english": "Language"
+        },
+        {
             "german": "die Stadt",
             "english": "City"
         },
         {
-            "german": "der Tage",
+            "german": "der Tag",
             "english": "Day"
         },
         {
@@ -254,23 +270,23 @@
         },
         {
             "german": "der Tourist",
-            "english": "Tourist"
+            "english": "Male Tourist"
+        },
+        {
+            "german": "die Touristin",
+            "english": "Female Tourist"
         },
         {
             "german": "der Vorname",
-            "english": "First name"
+            "english": "First Name"
         },
         {
             "german": "das Wort",
             "english": "Word"
         },
         {
-            "german": "die Sprache",
-            "english": "Language"
-        },
-        {
             "german": "die Zahl",
-            "english": "Nummer"
+            "english": "Number"
         },
         {
             "german": "die Zeit",
@@ -278,13 +294,15 @@
         },
         {
             "german": "der Zettel",
-            "english": "Piece of paper"
+            "english": "Piece of Paper"
         },
         {
             "german": "die Zigarette",
-            "english": "Ciggartte"
+            "english": "Cigarette"
+        },
+        {
+            "german": "der Herr",
+            "english": "Mister"
         }
-        
-        
     ]
 }
